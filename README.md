@@ -46,6 +46,17 @@ Estrelas consultadas pelo GitHub CLI em 2026-05-19.
 - [shutdown](https://github.com/crgimenes/shutdown) - Comando `shutdown` para MS-DOS 16 bits. **21 estrelas**.
 - [internet_time](https://github.com/crgimenes/internet_time) - Implementação de Swatch Internet Time. **3 estrelas**.
 
+## Projetos de [@FreyreCorona](https://github.com/FreyreCorona)
+
+## Hardware
+- [SideCar](https://github.com/FreyreCorona/SideCar) - Integracão com minitela de notebooks Positivo series R **16 estrelas**
+
+## Infraestrutura distribuida
+- [FluxCache](https://github.com/FreyreCorona/FluxCache) - Cache en memoria declarativo y k8s native **3 estrela**
+
+##Experimentos
+- [bite](https://github.com/FreyreCorona/bite) - Implementacão Zero dependency do chip 8 **4 estrelas**
+
 ## 💡 🧠 O Lab de Ideias (Half-Baked Ideas)
 
 Tem um insight na mesa do bar, um rascunho de arquitetura ou uma ideia de ferramenta que você não sabe se vai dar certo? Jogue aqui!
