@@ -57,6 +57,37 @@ Estrelas consultadas pelo GitHub CLI em 2026-05-19.
 ##Experimentos
 - [bite](https://github.com/FreyreCorona/bite) - Implementacão Zero dependency do chip 8 **4 estrelas**
 
+## Projetos de [@walissonaguirra](https://github.com/walissonaguirra)
+
+Estrelas consultadas pelo GitHub CLI em 2026-06-01.
+
+### Comunidade e aprendizado
+
+- [grupodeestudosgo](https://github.com/walissonaguirra/grupodeestudosgo) - Site do grupo de estudos de Go. **1 estrela**.
+- [aprenda-go](https://github.com/walissonaguirra/aprenda-go) - Anotações e exemplos práticos do curso "Aprenda Go" do canal Aprenda Go no YouTube, ministrado por Ellen Körbes. **0 estrelas**.
+- [aprendago-progresso](https://github.com/walissonaguirra/aprendago-progresso) - Acompanhamento de progresso nos estudos de Go. **0 estrelas**.
+- [python-do-zero-ao-avancado](https://github.com/walissonaguirra/python-do-zero-ao-avancado) - Anotações e exemplos práticos do curso "Curso Completo de Python - do Zero ao Avançado" do canal Boson Treinamentos no YouTube, ministrado por Fábio dos Reis. **0 estrelas**.
+- [fsphp](https://github.com/walissonaguirra/fsphp) - Conteúdo de referência para o curso FSPHP da UpInside Treinamentos. **0 estrelas**.
+
+### Bibliotecas e ferramentas
+
+- [html-table-excel-exporter](https://github.com/walissonaguirra/html-table-excel-exporter) - Biblioteca JavaScript simples para exportar tabelas HTML para arquivos Excel (.xlsx) sem dependências externas. **0 estrelas**.
+- [guzzle-github](https://github.com/walissonaguirra/guzzle-github) - Integração com a API do GitHub usando Guzzle. **0 estrelas**.
+
+### Laravel
+
+- [unbloader-laravel](https://github.com/walissonaguirra/unbloader-laravel) - Script para simplificar e tornar sua instalação Laravel menos opinativa. **0 estrelas**.
+- [bootstrap-validate-laravel](https://github.com/walissonaguirra/bootstrap-validate-laravel) - Lib JS para integrar o Laravel Validate com o Bootstrap Validate, com zero dependências e zero configuração. **0 estrelas**.
+
+### CodeIgniter
+
+- [ci-dropzonejs](https://github.com/walissonaguirra/ci-dropzonejs) - Sistema simples para upload de fotos com CodeIgniter 4 e Dropzone JS. **0 estrelas**.
+
+### WordPress
+
+- [wp-checkout](https://github.com/walissonaguirra/wp-checkout) - Plugin que modifica o fluxo de checkout do WooCommerce e a resposta enviada pelo WooCommerce WebHook. **0 estrelas**.
+- [wp-slide-menu](https://github.com/walissonaguirra/wp-slide-menu) - Cria um slide de menu horizontal. **0 estrelas**.
+
 ## 💡 🧠 O Lab de Ideias (Half-Baked Ideas)
 
 Tem um insight na mesa do bar, um rascunho de arquitetura ou uma ideia de ferramenta que você não sabe se vai dar certo? Jogue aqui!
